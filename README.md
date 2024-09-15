@@ -1,3 +1,3 @@
 # Spotify Clone
-Created spotify clone where utilized CSS properties such as transition, transform, overflow, shadow, opacity & etc.
-I used checkbox with 'checked' pscudo class which enables to perform some work on state 'checked' and on state 'unchecked'. so using this property i developed a responsive side menubar which hides itself on click and show menu on click.
+Created spotify clone.
+Utilized HTML to structure the website content and CSS to style the layout and to design the elements.
